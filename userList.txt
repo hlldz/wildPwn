@@ -1,0 +1,10 @@
+admin
+root
+administrator
+sysadmin
+wildfly
+jboss
+appserver
+serveradmin
+servadmin
+deployadm
