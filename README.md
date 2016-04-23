@@ -3,7 +3,11 @@ Its a simple tool for WildFly. Tool can be used to brute force or shell deploy. 
 
 #Usage
 Bruteforce
-./wildPwn.py -m brute --target <TARGET> -user <USERNAME LIST> -pass <PASSWORD LIST> 
+```
+python wildPwn.py -m brute --target <TARGET> -user <USERNAME LIST> -pass <PASSWORD LIST> 
+```
 
 Deploy
-./wildPwn.py -m deploy --target <TARGET> --port <PORT> -u <USERNAME> -p <PASSWORD>
+```
+python wildPwn.py -m deploy --target <TARGET> --port <PORT> -u <USERNAME> -p <PASSWORD>
+```
