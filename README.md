@@ -1,4 +1,4 @@
-# wildPwn
+# wildPwn - WildFly Exploitation Tool
 Its a simple tool for WildFly. Tool can be used to brute force or shell deploy. *wildPwn.war* contains modified Laudanum Shell. *userList.txt* contains common usernames and *passList.txt* contains common passwords.
 
 #Usage
