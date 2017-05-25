@@ -12,6 +12,9 @@ Shell Deploy
 python wildPwn.py -m deploy --target <TARGET> --port <PORT> -u <USERNAME> -p <PASSWORD>
 ```
 
+# Details
+https://artofpwn.com/wildfly-exploitation.html
+
 # Video
 [![PoC Video](https://i.ytimg.com/vi/kTsPwA7QhLU/maxresdefault.jpg)](https://www.youtube.com/watch?v=kTsPwA7QhLU)
 
